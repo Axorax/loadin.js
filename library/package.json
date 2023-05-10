@@ -1,0 +1,24 @@
+{
+  "name": "loadin",
+  "version": "1.0.0",
+  "description": "Simple page loading indicator",
+  "main": "loadin.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/loadin.js.git"
+  },
+  "keywords": [
+    "loadin",
+    "loading",
+    "page-loading",
+    "page-loading-indicator",
+    "loading-indicator"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/loadin.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/loadin.js#readme"
+}
